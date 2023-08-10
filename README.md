@@ -1,5 +1,5 @@
 # Testing-Green-1
-Learning 1
-I will be learning how to code each day.
+Green Learning 101
+I will be learning how to code each day, As I can to bring value and support to the ecosystem.
 
 Time to get working on python
